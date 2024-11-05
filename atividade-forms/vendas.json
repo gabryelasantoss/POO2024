@@ -1,0 +1,13 @@
+[
+    {
+        "dataVenda": "21/10/2006",
+        "produtos": [
+            {
+                "nome": "arroz",
+                "preco": 7.0,
+                "quantidade": 52
+            }
+        ],
+        "total": 364.0
+    }
+]
